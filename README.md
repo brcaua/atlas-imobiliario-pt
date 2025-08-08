@@ -222,12 +222,6 @@ docker run -p 3000:3000 atlas-imobiliario-pt
 
 Este projeto está licenciado sob a MIT License - veja o ficheiro [LICENSE](LICENSE) para detalhes.
 
-## 📞 Suporte
-
-- **Email**: info@atlasimobiliario.pt
-- **Issues**: Use o sistema de issues do GitHub
-- **Documentação**: [Documentação completa](docs/)
-
 ## 🗺 Roadmap
 
 - [ ] **Fase 1**: MVP com funcionalidades básicas
@@ -247,5 +241,3 @@ Este projeto está licenciado sob a MIT License - veja o ficheiro [LICENSE](LICE
   - [ ] Integração com mais fontes de dados
 
 ---
-
-**Atlas Imobiliário PT** - Dados do mercado imobiliário português ao seu alcance 🏡📊
